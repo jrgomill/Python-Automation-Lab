@@ -46,3 +46,17 @@ edr/               → Behavioral detection scripts
 offensive/         → Attack simulation scripts
 detections/        → Documentation of detection logic
 screenshots/       → Output examples
+
+
+---
+
+## Usage
+
+1. Run log parsers on Windows hosts.
+2. Run FIM monitor on Windows or Linux.
+3. Run EDR scripts to detect suspicious behavior.
+4. Run offensive scripts to generate logs.
+5. Review detection notes for analysis.
+
+This project is for educational and defensive purposes only.
+
